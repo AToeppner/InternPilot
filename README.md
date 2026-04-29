@@ -1,6 +1,6 @@
-## InternPilot (Demo App)
+## InternPilot
 
-InternPilot is a **demo-ready** full-stack web app for a 5–6 minute school presentation.
+InternPilot is a AI-powered workflow that automates the internship application process by generating tailored materials
 
 - **Upload a resume PDF** (editable text preview + manual paste fallback)
 - **Analyze a job posting** (URL fetch or paste + “Load Demo Scenario”)
@@ -13,7 +13,7 @@ InternPilot is a **demo-ready** full-stack web app for a 5–6 minute school pre
 - Next.js (App Router) + TypeScript
 - Tailwind + shadcn/ui
 - Prisma 7 + SQLite (driver adapter)
-- OpenAI API (`gpt-4o-mini`) with **mock fallback**
+- OpenAI API (`gpt-4o-mini`) with **mock AI fallback**
 - `pdf-parse` for PDF text extraction
 
 ---
